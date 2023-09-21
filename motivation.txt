@@ -1,0 +1,3 @@
+Motivasi saya mengikuti kelas automation testing:
+    - Mempelajari lebih dalam mengenai automation testing setelah mempelajari manual testing pada pertemuan-pertemuan sebelumnya.
+    - Menambah skill set dalam perjalanan switch karir dari NLP engineer.
